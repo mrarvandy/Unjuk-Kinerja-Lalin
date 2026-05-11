@@ -26,13 +26,13 @@ var lyr_TataGunaLahan_1 = new ol.layer.Vector({
                 popuplayertitle: 'Tata Guna Lahan',
                 interactive: false,
     title: 'Tata Guna Lahan<br />\
-    <img src="styles/legend/TataGunaLahan_1_0.png" /> <br />\
-    <img src="styles/legend/TataGunaLahan_1_1.png" /> HUNIAN<br />\
-    <img src="styles/legend/TataGunaLahan_1_2.png" /> KEAGAMAAN<br />\
-    <img src="styles/legend/TataGunaLahan_1_3.png" /> KHUSUS<br />\
-    <img src="styles/legend/TataGunaLahan_1_4.png" /> PENGGUNAAN LAIN<br />\
-    <img src="styles/legend/TataGunaLahan_1_5.png" /> SOSIAL BUDAYA<br />\
-    <img src="styles/legend/TataGunaLahan_1_6.png" /> USAHA<br />' });
+    <img src="styles/legend/TataGunaLahan_1_0.png" /> HUNIAN<br />\
+    <img src="styles/legend/TataGunaLahan_1_1.png" /> KEAGAMAAN<br />\
+    <img src="styles/legend/TataGunaLahan_1_2.png" /> KHUSUS<br />\
+    <img src="styles/legend/TataGunaLahan_1_3.png" /> PENGGUNAAN LAIN<br />\
+    <img src="styles/legend/TataGunaLahan_1_4.png" /> SOSIAL BUDAYA<br />\
+    <img src="styles/legend/TataGunaLahan_1_5.png" /> USAHA<br />\
+    <img src="styles/legend/TataGunaLahan_1_6.png" /> <br />' });
 var format_JaringanJalanJakarta_2 = new ol.format.GeoJSON();
 var features_JaringanJalanJakarta_2 = format_JaringanJalanJakarta_2.readFeatures(json_JaringanJalanJakarta_2, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
